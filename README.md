@@ -6,9 +6,9 @@ ___
 
 
 
->  simple shell that mimics the Bash shell. it is called **hsh**
+>  simple shell that mimics the Bash shell. it is called <a href="./hsh">hsh</a>.
 
-## Project was completed using
+## This Project was completed using
 
 - C language
 - Shell
