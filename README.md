@@ -315,6 +315,4 @@ $
 ## Authors ##
 
 🖊️ **Prevail Ugah**
-
-## partner ##
-/ **Oluwatosin Oyebanji**
+🖊️ **Oluwatosin Oyebanji**
